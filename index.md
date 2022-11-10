@@ -14,3 +14,7 @@
 </body>
 </html>
 ```
+## ToDos
+- [ ] Learn GitHub
+- [x] Practice
+- [ ] Get job
